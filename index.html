@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" class="container">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Lista de Presença em Eventos</title>
+		<link rel="stylesheet" href="style.css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+		<script type="module" src="participantes.js" defer></script>
+	</head>
+	<body class="container">
+		<nav class="header flex_h">
+			<h1>Gerenciador de Eventos</h1>
+		</nav>
+		<main class="content">
+			<div style="height: 100%" class="data_container">
+				<nav class="sidebar">
+					<ul id="nav" class="flex_v">
+						<li>Customização de Evento</li>
+						<li>Lista de Participante</li>
+						<li>Marcação de Presença</li>
+					</ul>
+				</nav>
+				<section class="padding">
+					<div class="container hide">
+						<h1 class="subtitle">Dados do Evento</h1>
+						<form>
+							<label for="data">Data do Evento</label>
+							<input type="datetime-local" name="data" id="data" />
+							<button>Salvar</button>
+						</form>
+					</div>
+					<div class="container">
+						<h1 class="subtitle">Participantes</h1>
+						<div>
+							<select name="filtro" id="filtro">
+								<option value="todos">Todos</option>
+								<option value="CFG Ativa">CFG Ativa</option>
+								<option value="CFG Reserva">CFG Reserva</option>
+								<option value="CG Ativa">CG</option>
+							</select>
+						</div>
+						<div id="participantes" class="p_list flex_h"></div>
+						<button class="export">Exportar</button>
+					</div>
+					<div class="container hide">
+						<h1 class="subtitle">Marcação de Presença</h1>
+						<div id="marcacao" class="m_list flex_h"></div>
+					</div>
+				</section>
+			</div>
+		</main>
+		<footer></footer>
+		<div class="hide">
+			<div class="marcador" id="padrao_marcador">
+				<img src="" alt="" class="m_img" />
+				<div class="m_text">
+					<h2 class="m_posto"></h2>
+					<h2 class="m_nome_guerra"></h2>
+					<h3 class="m_nome_completo"></h3>
+				</div>
+			</div>
+			<div class="participante" id="padrao_participante">
+				<h3 class="p_title"></h3>
+				<div class="p_container">
+					<img src="" alt="" class="p_img" />
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

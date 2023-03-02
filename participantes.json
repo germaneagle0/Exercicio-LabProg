@@ -1,0 +1,218 @@
+[
+	{
+		"nome": "Ana Livia",
+		"nomeCompleto": "Ana Livia Matos Muniz",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "ana.jpg"
+	},
+	{
+		"nome": "Andrade",
+		"nomeCompleto": "Matheus Andrade Barreto",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Reserva",
+		"foto": "andrade.jpg"
+	},
+	{
+		"nome": "Barbosa",
+		"nomeCompleto": "Samuel Barbosa e Silva",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "barbosa.jpg"
+	},
+	{
+		"nome": "Bretherick",
+		"nomeCompleto": "Daniel Ambrozio Bretherick Marques",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "bretherick.jpg"
+	},
+	{
+		"nome": "Bronson",
+		"nomeCompleto": "Giulio Bronson Siqueira de Oliveira",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "bronson.jpg"
+	},
+	{
+		"nome": "Burin",
+		"nomeCompleto": "Bruno Camacho Burin",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Reserva",
+		"foto": "burin.jpg"
+	},
+	{
+		"nome": "Cangussu",
+		"nomeCompleto": "Rafael Cangussu Ferreira",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Reserva",
+		"foto": "cangussu.jpg"
+	},
+	{
+		"nome": "Caruso",
+		"nomeCompleto": "Joao Pedro Francisco Caruso",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Reserva",
+		"foto": "caruso.jpg"
+	},
+	{
+		"nome": "Cuadros",
+		"nomeCompleto": "Daniel Batista Cuadros",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "cuadros.jpg"
+	},
+	{
+		"nome": "Damitz",
+		"nomeCompleto": "Alexander Damitz Pinheiro",
+		"posto": "1º Ten",
+		"curso": "CG",
+		"opcao": "Ativa",
+		"foto": "damitz.jpg"
+	},
+	{
+		"nome": "Danon",
+		"nomeCompleto": "Gustavo Ewbank Rodrigues Danon",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Reserva",
+		"foto": "danon.jpg"
+	},
+	{
+		"nome": "Felipe Santos",
+		"nomeCompleto": "Felipe Lins dos Santos",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "felipe.jpg"
+	},
+	{
+		"nome": "Gomes",
+		"nomeCompleto": "Fernando Victor Correa Lima Gomes",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Reserva",
+		"foto": "gomes.jpg"
+	},
+	{
+		"nome": "Joseph Vieira",
+		"nomeCompleto": "Joseph Inácio Vieira Oliveira Gomes",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "joseph.jpg"
+	},
+	{
+		"nome": "Knoller",
+		"nomeCompleto": "Felipe Knoller Nunes",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Reserva",
+		"foto": "knoller.jpg"
+	},
+	{
+		"nome": "Mateus Lima",
+		"nomeCompleto": "Mateus Lima Silveira",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Reserva",
+		"foto": "mateus.jpg"
+	},
+	{
+		"nome": "Nascimento",
+		"nomeCompleto": "Vitor Eduardo Pinheiro do Nascimento",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "nascimento.jpg"
+	},
+	{
+		"nome": "Nobrega",
+		"nomeCompleto": "Gabriel Nobrega de Brito Ramos",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "nobrega.jpg"
+	},
+	{
+		"nome": "Paixao",
+		"nomeCompleto": "Renato da Paixao Alves",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "paixao.jpg"
+	},
+	{
+		"nome": "Pamella",
+		"nomeCompleto": "Pamella Atanes Silva",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Reserva",
+		"foto": "pamella.jpg"
+	},
+	{
+		"nome": "Pinafi",
+		"nomeCompleto": "Lucas Pinafi Carvalho",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "pinafi.jpg"
+	},
+	{
+		"nome": "Pontes",
+		"nomeCompleto": "Rafael Pontes Tenorio Lima",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "pontes.jpg"
+	},
+	{
+		"nome": "Queiroz",
+		"nomeCompleto": "Carlos Henricco Rabelo de Queiroz",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "queiroz.jpg"
+	},
+	{
+		"nome": "Richard",
+		"nomeCompleto": "Richard de Carvalho Gonçalves Mello",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "richard.jpg"
+	},
+	{
+		"nome": "Timbo",
+		"nomeCompleto": "Rafael Cavalcante Timbo",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "timbo.jpg"
+	},
+	{
+		"nome": "Vasconcelos",
+		"nomeCompleto": "Thiago Oliveira Juca Vasconcelos",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "vasconcelos.jpg"
+	},
+	{
+		"nome": "Viegas",
+		"nomeCompleto": "Gabriel de Oliveira Viegas",
+		"posto": "Al 4º Ano",
+		"curso": "CFG",
+		"opcao": "Ativa",
+		"foto": "viegas.jpg"
+	}
+]
